@@ -7,6 +7,6 @@ code on masterbranch , commit4 by user4
 
 code on masterbranch , commit5 by user5
 code on masterbranch , commit6 by user6
-
+commit7 on master branch
 featurecommit1
 featurecommit2
