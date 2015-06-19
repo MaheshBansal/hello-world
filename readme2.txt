@@ -1,2 +1,1 @@
-changes from branch1
-some more changes from github gui
+code on masterbranch , commit1 by user1
